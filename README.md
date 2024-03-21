@@ -17,3 +17,8 @@
 #### Reports Service
 
 #### Reports Repository
+
+## Persistence
+
+- TypeORM
+- SQLite
