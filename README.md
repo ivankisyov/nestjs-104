@@ -22,3 +22,7 @@
 
 - TypeORM
 - SQLite
+
+## Learning notes
+
+![Alt text](./assets/learning-notes/Nestjs.png)
